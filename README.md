@@ -1,16 +1,33 @@
 # College-Projects
+Computer Science Projects
 Object Oriented Programming
+
 Network Security
-Cyber security
+
+Cyber Security
+
 Cloud Infrastructure
+
 Compiler Construction
+
 Database Management
+
 Machine Learning
-Datastructures and Algorithms
-Human Computer Interaction
+
+Data Structures and Algorithms
+
+Human-Computer Interaction
+
+#*Finance Projects*#
+
 Derivatives and Risk Management
+
 Fundamentals of Accounting
-Securities and portfolio management
+
+Securities and Portfolio Management
+
 Financial Risk Management
-Bussiness and valuations
-Financial Management 
+
+Business and Valuations
+
+Financial Management
