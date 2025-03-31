@@ -19,6 +19,8 @@ Data Structures and Algorithms
 
 Human-Computer Interaction
 
+Front End
+
 #*Finance Projects*#
 
 Derivatives and Risk Management
